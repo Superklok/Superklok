@@ -29,7 +29,7 @@
 
 ###### Social Media
 
-[<img src="https://res.cloudinary.com/superkloklabs/image/upload/v1635258263/SocialMediaIcons/iconYT_qjym3l.png" />][youtube] &nbsp; [<img src="https://res.cloudinary.com/superkloklabs/image/upload/v1635258208/SocialMediaIcons/iconTT_lwrdmk.png" />][tiktok] &nbsp; [<img src="https://res.cloudinary.com/superkloklabs/image/upload/v1635258099/SocialMediaIcons/iconIG_q6ovlw.png" />][instagram] &nbsp; [<img src="https://res.cloudinary.com/superkloklabs/image/upload/v1635258155/SocialMediaIcons/iconSC_i0oi4x.png" />][soundcloud] &nbsp; [<img src="https://res.cloudinary.com/superkloklabs/image/upload/v1635257825/SocialMediaIcons/iconAM_wvzqeg.png" />][audiomack] &nbsp; [<img src="https://res.cloudinary.com/superkloklabs/image/upload/v1635257800/SocialMediaIcons/iconBC_umi8zt.png" />][bandcamp]
+[<img src="public/assets/img/iconYT.ico" />][youtube] &nbsp; [<img src="public/assets/img/iconTT.ico" />][tiktok] &nbsp; [<img src="public/assets/img/iconIG.ico" />][instagram] &nbsp; [<img src="public/assets/img/iconSC.ico" />][soundcloud] &nbsp; [<img src="public/assets/img/iconAM.ico" />][audiomack] &nbsp; [<img src="public/assets/img/iconBC.ico" />][bandcamp]
 
 <br />
 <br />
