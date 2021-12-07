@@ -2,12 +2,15 @@
 
 ## :derelict_house: Take a peek at a few experiments while you're here:
 
+### - :coin: Find trending coins on [React Crypto Stats][cryptostats] :chart:
 ### - :oncoming_automobile: Swap vehicles on [Swingcars][swingcars] :flying_saucer:
 ### - :satellite: Publish an article on [The Current Courant][currentcourant] :artificial_satellite:
 ### - :flight_departure: Learn how to change a tire on [Jet Wheel Reel][jetwheelreel] :flight_arrival:
+### - :pager: Create a to-do list with the [React Task Tracker][tasktracker] :scroll:
 ### - :convenience_store: Pick out something to eat at [Slider Piler][sliderpiler] :hamburger:
 ### - :milky_way: Browse the web design showcase at [TrevMorin.com][trevmorin] :stars:
 ### - :alembic: See all the available services at [Superklok Labs][superkloklabs] :test_tube:
+### - :candy: Play a little bit of [React Candy Crush][candycrush] :lollipop:
 
 <br />
 
@@ -34,12 +37,15 @@
 <br />
 <br />
 
+[cryptostats]: http://cryptostats.superklok.com/
 [swingcars]: http://www.swingcars.net/
 [currentcourant]: http://currentcourant.com/
 [jetwheelreel]: http://www.jetwheelreel.com/
+[tasktracker]: https://tasktracker.superklok.com/
 [sliderpiler]: http://www.sliderpiler.com/
 [trevmorin]: http://www.trevmorin.com/
 [superkloklabs]: http://superkloklabs.com/
+[candycrush]: https://candycrush.superklok.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
