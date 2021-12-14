@@ -12,6 +12,7 @@
 ### - :alembic: See all the available services at [Superklok Labs][superkloklabs] :test_tube:
 ### - :candy: Play a little bit of [React Candy Crush][candycrush] :lollipop:
 ### - :whale2: Get the latest containers from [Docker Hub][dockerhub] :package:
+### - :cd: Download the entire [Superklok Discography][superklok] :loud_sound:
 
 <br />
 
@@ -48,6 +49,7 @@
 [superkloklabs]: http://superkloklabs.com/
 [candycrush]: https://candycrush.superklok.com/
 [dockerhub]: https://hub.docker.com/u/superklok
+[superklok]: https://superklok.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
