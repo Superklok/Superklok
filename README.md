@@ -61,7 +61,7 @@
 [firebase]: https://firebase.google.com/docs
 [react]: https://reactjs.org/docs/getting-started.html
 [redux]: https://react-redux.js.org/introduction/getting-started
-[reactrouter]: https://reactrouter.com/web/guides/quick-start
+[reactrouter]: https://reactrouter.com/en/6.10.0/start/overview
 [materialui]: https://v4.mui.com/getting-started/installation/
 [chartjs]: https://www.chartjs.org/docs/latest/getting-started/installation.html
 [express]: https://expressjs.com/en/guide/routing.html
