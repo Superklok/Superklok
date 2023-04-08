@@ -2,6 +2,7 @@
 
 ## :derelict_house: Take a peek at a few experiments while you're here:
 
+### - :rocket: Use this self-serve curriculum to [LearnJavaScript][LearnJavaScript] :100:
 ### - :coin: Find trending coins on [React Crypto Stats][cryptostats] :chart:
 ### - :oncoming_automobile: Swap vehicles on [Swingcars][swingcars] :flying_saucer:
 ### - :satellite: Publish an article on [The Current Courant][currentcourant] :artificial_satellite:
@@ -40,6 +41,7 @@
 <br />
 
 [cryptostats]: http://cryptostats.superklok.com/
+[LearnJavaScript]: https://github.com/Superklok/LearnJavaScript
 [swingcars]: http://www.swingcars.net/
 [currentcourant]: http://currentcourant.com/
 [jetwheelreel]: http://www.jetwheelreel.com/
