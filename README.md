@@ -59,7 +59,7 @@
 [markdown]: https://www.markdownguide.org/getting-started/
 [mongo]: https://docs.mongodb.com/
 [firebase]: https://firebase.google.com/docs
-[react]: https://reactjs.org/docs/getting-started.html
+[react]: https://react.dev/learn
 [redux]: https://react-redux.js.org/introduction/getting-started
 [reactrouter]: https://reactrouter.com/en/6.10.0/start/overview
 [materialui]: https://v4.mui.com/getting-started/installation/
