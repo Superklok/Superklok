@@ -40,16 +40,16 @@
 <br />
 <br />
 
-[cryptostats]: http://cryptostats.superklok.com/
+[cryptostats]: https://github.com/Superklok/ReactCryptoStats
 [LearnJavaScript]: https://github.com/Superklok/LearnJavaScript
-[swingcars]: http://www.swingcars.net/
-[currentcourant]: http://currentcourant.com/
-[jetwheelreel]: http://www.jetwheelreel.com/
-[tasktracker]: https://tasktracker.superklok.com/
-[sliderpiler]: http://www.sliderpiler.com/
-[trevmorin]: http://www.trevmorin.com/
-[superkloklabs]: http://superkloklabs.com/
-[candycrush]: https://candycrush.superklok.com/
+[swingcars]: https://github.com/Superklok/SwingcarsDotNet
+[currentcourant]: https://github.com/Superklok/CurrentCourantDotCom
+[jetwheelreel]: https://github.com/Superklok/JetWheelReelDotCom
+[tasktracker]: https://github.com/Superklok/ReactTaskTracker
+[sliderpiler]: https://github.com/Superklok/SliderPilerDotCom
+[trevmorin]: https://github.com/Superklok/TrevMorinDotCom
+[superkloklabs]: https://github.com/Superklok/SuperklokLabs
+[candycrush]: https://github.com/Superklok/ReactCandyCrush
 [dockerhub]: https://hub.docker.com/u/superklok
 [superklok]: https://superklok.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
