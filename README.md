@@ -2,7 +2,7 @@
 
 ## :derelict_house: Take a peek at a few experiments while you're here:
 
-### - :rocket: Use this self-serve curriculum to [LearnJavaScript][LearnJavaScript] :100:
+### - :rocket: Ace coding interviews with this [FREE JavaScript Course][LearnJavaScript] :100:
 ### - :coin: Find trending coins on [React Crypto Stats][cryptostats] :chart:
 ### - :oncoming_automobile: Swap vehicles on [Swingcars][swingcars] :flying_saucer:
 ### - :satellite: Publish an article on [The Current Courant][currentcourant] :artificial_satellite:
@@ -27,7 +27,7 @@
 
 ###### Libraries, Frameworks & Runtime
 
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][react] [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />][redux] [<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />][reactrouter] [<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />][express] [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />][materialui] [<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />][chartjs] [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][bootstrap] [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />][node] [<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />][npm]
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][react] [<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />][next] [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />][redux] [<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />][reactrouter] [<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />][express] [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />][materialui] [<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />][chartjs] [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][bootstrap] [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />][node] [<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />][npm]
 
 ###### Deployment Tools & Services
 
@@ -60,6 +60,7 @@
 [mongo]: https://docs.mongodb.com/
 [firebase]: https://firebase.google.com/docs
 [react]: https://react.dev/learn
+[next]: https://nextjs.org/docs
 [redux]: https://react-redux.js.org/introduction/getting-started
 [reactrouter]: https://reactrouter.com/en/6.10.0/start/overview
 [materialui]: https://v4.mui.com/getting-started/installation/
