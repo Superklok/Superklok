@@ -1,19 +1,21 @@
 # :boom: Welcome to Superklok Labs! :dash:
 
+### :rocket: Ace coding interviews with this [FREE JavaScript Course][LearnJavaScript] :100:
+<br />
+
 ## :derelict_house: Take a peek at a few experiments while you're here:
 
-### - :rocket: Ace coding interviews with this [FREE JavaScript Course][LearnJavaScript] :100:
-### - :coin: Find trending coins on [React Crypto Stats][cryptostats] :chart:
-### - :oncoming_automobile: Swap vehicles on [Swingcars][swingcars] :flying_saucer:
-### - :satellite: Publish an article on [The Current Courant][currentcourant] :artificial_satellite:
-### - :flight_departure: Learn how to change a tire on [Jet Wheel Reel][jetwheelreel] :flight_arrival:
-### - :pager: Create a to-do list with the [React Task Tracker][tasktracker] :scroll:
-### - :convenience_store: Pick out something to eat at [Slider Piler][sliderpiler] :hamburger:
-### - :milky_way: Browse the web design showcase at [TrevMorin.com][trevmorin] :stars:
-### - :alembic: See all the available services at [Superklok Labs][superkloklabs] :test_tube:
-### - :candy: Play a little bit of [React Candy Crush][candycrush] :lollipop:
-### - :whale2: Get the latest containers from [Docker Hub][dockerhub] :package:
-### - :cd: Download the entire [Superklok Discography][superklok] :loud_sound:
+#### - :alembic: An example of a [business website][superkloklabs] :test_tube:
+#### - :oncoming_automobile: A vehicle swapping [social network][swingcars] :flying_saucer:
+#### - :coin: Cryptocurrency statistical analysis [React app][cryptostats] :chart:
+#### - :flight_departure: Aircraft wheel change [educational site][jetwheelreel] :flight_arrival:
+#### - :satellite: Parody newspaper [social network][currentcourant] :artificial_satellite:
+#### - :pager: A task tracking [React app][tasktracker] :scroll:
+#### - :convenience_store: Restaurant website [sandwich builder][sliderpiler] :hamburger:
+#### - :milky_way: Sample web design [portfolio website][trevmorin] :stars:
+#### - :candy: Candy Crush turned into a [React app][candycrush] :lollipop:
+#### - :whale2: Latest containers on [Docker Hub][dockerhub] :package:
+#### - :cd: Download the [Superklok discography][superklok] :loud_sound:
 
 <br />
 
@@ -40,15 +42,15 @@
 <br />
 <br />
 
-[cryptostats]: https://github.com/Superklok/ReactCryptoStats
 [LearnJavaScript]: https://github.com/Superklok/LearnJavaScript
+[superkloklabs]: https://github.com/Superklok/SuperklokLabs
 [swingcars]: https://github.com/Superklok/SwingcarsDotNet
-[currentcourant]: https://github.com/Superklok/CurrentCourantDotCom
+[cryptostats]: https://github.com/Superklok/ReactCryptoStats
 [jetwheelreel]: https://github.com/Superklok/JetWheelReelDotCom
+[currentcourant]: https://github.com/Superklok/CurrentCourantDotCom
 [tasktracker]: https://github.com/Superklok/ReactTaskTracker
 [sliderpiler]: https://github.com/Superklok/SliderPilerDotCom
 [trevmorin]: https://github.com/Superklok/TrevMorinDotCom
-[superkloklabs]: https://github.com/Superklok/SuperklokLabs
 [candycrush]: https://github.com/Superklok/ReactCandyCrush
 [dockerhub]: https://hub.docker.com/u/superklok
 [superklok]: https://superklok.com/
