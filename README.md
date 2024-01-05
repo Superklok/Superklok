@@ -12,7 +12,7 @@
 #### - :satellite: Parody newspaper [social network][currentcourant] :artificial_satellite:
 #### - :pager: A task tracking [React app][tasktracker] :scroll:
 #### - :convenience_store: Restaurant website [sandwich builder][sliderpiler] :hamburger:
-#### - :milky_way: Sample web design [portfolio website][trevmorin] :stars:
+#### - :milky_way: Sample web design [portfolio site][trevmorin] :stars:
 #### - :candy: Candy Crush turned into a [React app][candycrush] :lollipop:
 #### - :whale2: Latest containers on [Docker Hub][dockerhub] :package:
 #### - :cd: Download the [Superklok discography][superklok] :loud_sound:
