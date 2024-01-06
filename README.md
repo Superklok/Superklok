@@ -64,7 +64,7 @@
 [react]: https://react.dev/learn
 [next]: https://nextjs.org/docs
 [redux]: https://react-redux.js.org/introduction/getting-started
-[reactrouter]: https://reactrouter.com/en/6.10.0/start/overview
+[reactrouter]: https://reactrouter.com/en/main/start/overview
 [materialui]: https://v4.mui.com/getting-started/installation/
 [chartjs]: https://www.chartjs.org/docs/latest/getting-started/installation.html
 [express]: https://expressjs.com/en/guide/routing.html
