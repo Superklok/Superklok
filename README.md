@@ -61,7 +61,7 @@
 [markdown]: https://www.markdownguide.org/getting-started/
 [mongo]: https://docs.mongodb.com/
 [firebase]: https://firebase.google.com/docs
-[react]: https://react.dev/learn
+[react]: https://react.dev/
 [next]: https://nextjs.org/docs
 [redux]: https://react-redux.js.org/introduction/getting-started
 [reactrouter]: https://reactrouter.com/en/main/start/overview
