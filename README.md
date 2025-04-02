@@ -37,7 +37,7 @@
 
 ###### Social Media
 
-[<img src="public/assets/img/iconYT.ico" />][youtube] &nbsp; [<img src="public/assets/img/iconTT.ico" />][tiktok] &nbsp; [<img src="public/assets/img/iconIG.ico" />][instagram] &nbsp; [<img src="public/assets/img/iconSC.ico" />][soundcloud] &nbsp; [<img src="public/assets/img/iconAM.ico" />][audiomack] &nbsp; [<img src="public/assets/img/iconBC.ico" />][bandcamp]
+[<img src="public/assets/img/iconYT.ico" />][youtube] &nbsp; [<img src="public/assets/img/iconTT.ico" />][tiktok] &nbsp; [<img src="public/assets/img/iconIG.ico" />][instagram] &nbsp; [<img src="public/assets/img/iconSC.ico" />][soundcloud] &nbsp; [<img src="public/assets/img/iconAM.png" />][audiomack] &nbsp; [<img src="public/assets/img/iconBC.png" />][bandcamp] &nbsp; [<img src="public/assets/img/iconX.png" />][twitterx] &nbsp; [<img src="public/assets/img/iconLI.png" />][linkedin]
 
 <br />
 <br />
@@ -83,3 +83,5 @@
 [soundcloud]: https://soundcloud.com/user-166803901
 [audiomack]: https://audiomack.com/superklok
 [bandcamp]: https://superklok.bandcamp.com/
+[twitterx]: https://x.com/SuperklokLabs
+[linkedin]: https://www.linkedin.com/company/superkloklabs
